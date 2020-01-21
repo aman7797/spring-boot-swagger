@@ -40,4 +40,4 @@ Have created 4 microservics
 
 ## Output
     
-![Swagger](\img\swagger-output.png)
+![Swagger](https://github.com/aman7797/spring-boot-swagger/blob/master/img/swagger-output.png)
